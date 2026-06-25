@@ -1,4 +1,4 @@
-### Repositorio para la entrega de la tarea de finetuning de modelos de difusión
+# Repositorio para la entrega de la tarea de finetuning de modelos de difusión
 - Este repositorio contiene los siguientes archivos:
     - `entrega_finetuning_oldbookillustrations_runpod.ipynb`: Notebook para el finetuning de Stable Diffusion en RunPod.
     - `entrega_resultados_oldbookillustrations.ipynb`: Notebook para el análisis de resultados del finetuning de Stable Diffusion.
